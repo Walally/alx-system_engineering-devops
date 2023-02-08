@@ -1,1 +1,2 @@
-pwd prints the current directory
+"pwd" command prints the current directory
+ 
